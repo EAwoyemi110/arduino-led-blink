@@ -46,6 +46,7 @@ void loop() {
   digitalWrite(12, LOW);
   delay(400);
 }
+```
 
 ## 🎥 Demo Video
 
