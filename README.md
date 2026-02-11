@@ -46,3 +46,7 @@ void loop() {
   digitalWrite(12, LOW);
   delay(400);
 }
+
+## 🎥 Demo Video
+
+[![Watch the LED Blink Demo](https://img.youtube.com/vi/WQyo7B2Gc8A/0.jpg)](https://youtube.com/shorts/WQyo7B2Gc8A)
